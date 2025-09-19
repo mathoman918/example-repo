@@ -33,7 +33,7 @@ Based on the total time, it determines the award according to the following crit
 ## How to Run
 
 Ensure you have Python installed on your computer.
-Save the code in a file named, for example, `triathlon_award.py`.
+Save the code in a file named, for example, triathlon_award.py. the naming must have .py
 Open a terminal or command prompt and navigate to the folder containing the file.
 Run the program using the command:or the ctrl+shift+D shortcut
 
